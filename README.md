@@ -1,7 +1,8 @@
 # forkify
 Project to add recipes guided by Jonas.
 
-Updates to food2fork API
+## Updates to food2fork API
+
 Hey there,
 
 If you have not yet reached the forkify app project, please just ignore this message.
